@@ -1,2 +1,0 @@
-# Aura-Portfolio
-My portfolio 
